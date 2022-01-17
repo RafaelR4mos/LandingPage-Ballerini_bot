@@ -2,7 +2,7 @@
 ## Projeto desenvolvido para estudos 
 Este projeto foi idealizado pela desenvolvedora Rafaela Ballerini e compartilhado no YouTube para que outras pessoas pudessem aprender um pouco de CSS e HTML através dos conhecimentos explanados no vídeo.
 
-### Além de desenvolver o projeto juntamente da Rafa desenvolvi mais 2 funcionalidade:
+### Além de desenvolver o projeto juntamente da Rafa desenvolvi mais 2 funcionalidades:
 
 #### 1. Coloquei links nas tags <a> relacionadas ao conteúdo escrito:
   Segue o código:
