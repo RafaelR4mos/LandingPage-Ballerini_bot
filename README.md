@@ -20,3 +20,6 @@ Este projeto foi idealizado pela desenvolvedora Rafaela Ballerini e compartilhad
 ```.cabecalho-menu-item:hover{
   color: #333;
 ```
+
+#### Gif
+  ![Gif dos hovers](URL da imagem)
