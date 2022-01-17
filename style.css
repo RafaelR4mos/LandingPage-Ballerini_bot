@@ -38,7 +38,6 @@ body {
 
 .cabecalho-menu-item:hover{
   color: #333;
-  font-weight: 600;
 }
 
 .conteudo {
@@ -120,6 +119,16 @@ body {
   font-weight: 300;
   color: #ECD6C4;
 }
+
+.conteudo-secundario-img {
+  display: flex;
+  align-items: center;
+}
+
+ul li {
+  display: inline-block;
+}
+
 
 .rodape {
   padding: 32px;
