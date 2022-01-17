@@ -12,9 +12,9 @@ Este projeto foi idealizado pela desenvolvedora Rafaela Ballerini e compartilhad
       <a class="cabecalho-menu-item" href="https://github.com/rafaballerini/Codefi">Open Source</a>
       <a class="cabecalho-menu-item" href="https://github.com/rafaballerini/BalleDocs">Conheça o BalleDocs</a> ```
   
+  
 #### 2. Adicionei hovers nas âncoras para produzir um melhor efeito visual ao passar o mouse por cima
   Segue o código:
   
 ```.cabecalho-menu-item:hover{
-  color: #333;
-```
+  color: #333;```
