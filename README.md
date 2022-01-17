@@ -22,4 +22,4 @@ Este projeto foi idealizado pela desenvolvedora Rafaela Ballerini e compartilhad
 ```
 
 #### Gif
-  ![Gif dos hovers](URL da imagem)
+  ![Gif dos hovers](header-gif.gif)
