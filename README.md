@@ -21,5 +21,5 @@ Este projeto foi idealizado pela desenvolvedora Rafaela Ballerini e compartilhad
   color: #333;
 ```
 
-#### Gif
+#### Gif da alteração
   ![Gif dos hovers](header-gif.gif)
